@@ -1,4 +1,4 @@
 # phpunitdemo
--- composer install
--- cd unittest
--- phpunit --coverage-html report
+* composer install
+* cd unittest
+* phpunit --coverage-html report
