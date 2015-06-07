@@ -1,0 +1,14 @@
+<phpunit>
+    <testsuites>
+        <testsuite name="hi">
+            <directory>./</directory>
+        </testsuite>
+        <!--<testsuite name="ordre">-->
+            <!--<file>./ClassApkTest.php</file>-->
+            <!--<file>./ClassStringUtilsTest.php</file>-->
+            <!--<file>./EchoStringTest.php</file>-->
+            <!--<file>./FunctionUtilsTest.php</file>-->
+            <!--<file>./IncludeTTest.php</file>-->
+        <!--</testsuite>-->
+    </testsuites>
+</phpunit>

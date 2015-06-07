@@ -1,0 +1,15 @@
+{
+    "name": "zhaobao/phpunit_demo",
+    "description": "phpunit demo",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+        "name": "zhaobao",
+        "email": "zhishoumowen@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "4.6.*"
+    }
+}
